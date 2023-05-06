@@ -1,0 +1,7 @@
+C:\Users\DarkMax\source\repos\Ejercicio5POO\Ejercicio5POO\obj\Debug\Ejercicio5POO.csprojAssemblyReference.cache
+C:\Users\DarkMax\source\repos\Ejercicio5POO\Ejercicio5POO\obj\Debug\Ejercicio5POO.csproj.CoreCompileInputs.cache
+C:\Users\DarkMax\source\repos\Ejercicio5POO\Ejercicio5POO\bin\Debug\Ejercicio5POO.exe.config
+C:\Users\DarkMax\source\repos\Ejercicio5POO\Ejercicio5POO\bin\Debug\Ejercicio5POO.exe
+C:\Users\DarkMax\source\repos\Ejercicio5POO\Ejercicio5POO\bin\Debug\Ejercicio5POO.pdb
+C:\Users\DarkMax\source\repos\Ejercicio5POO\Ejercicio5POO\obj\Debug\Ejercicio5POO.exe
+C:\Users\DarkMax\source\repos\Ejercicio5POO\Ejercicio5POO\obj\Debug\Ejercicio5POO.pdb

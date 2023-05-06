@@ -1,0 +1,7 @@
+C:\Users\DarkMax\source\repos\Ejercicio7POO\Ejercicio7POO\bin\Debug\Ejercicio7POO.exe.config
+C:\Users\DarkMax\source\repos\Ejercicio7POO\Ejercicio7POO\bin\Debug\Ejercicio7POO.exe
+C:\Users\DarkMax\source\repos\Ejercicio7POO\Ejercicio7POO\bin\Debug\Ejercicio7POO.pdb
+C:\Users\DarkMax\source\repos\Ejercicio7POO\Ejercicio7POO\obj\Debug\Ejercicio7POO.csprojAssemblyReference.cache
+C:\Users\DarkMax\source\repos\Ejercicio7POO\Ejercicio7POO\obj\Debug\Ejercicio7POO.csproj.CoreCompileInputs.cache
+C:\Users\DarkMax\source\repos\Ejercicio7POO\Ejercicio7POO\obj\Debug\Ejercicio7POO.exe
+C:\Users\DarkMax\source\repos\Ejercicio7POO\Ejercicio7POO\obj\Debug\Ejercicio7POO.pdb
